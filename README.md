@@ -1,5 +1,5 @@
 # LDCP
-Implemetation of Adaptive Chroma Prediction Based on Luma Difference for H.266/VVC
+Implemetation of Adaptive Chroma Prediction Based on Luma Difference for H.266/VVC.We implemented this based on VTM 18.0, you can search for the LLDCP macros in the code.
 
 Abstract— Cross-component chroma prediction plays an
 important role in improving coding efffciency for H.266/VVC.
